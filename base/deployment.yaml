@@ -22,9 +22,9 @@ spec:
           valueFrom:
             configMapKeyRef:
               name: the-map
-              key: altGreeting
+              key: GREETING
         - name: ENABLE_RISKY
           valueFrom:
             configMapKeyRef:
               name: the-map
-              key: enableRisky
+              key: RISKY

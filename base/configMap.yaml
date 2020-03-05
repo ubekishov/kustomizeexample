@@ -4,4 +4,4 @@ metadata:
   name: the-map
 data:
   GREETING: "Good Morning!"
-  RISKY: "false"
+  RISKY: false

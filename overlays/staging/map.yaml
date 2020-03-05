@@ -4,4 +4,4 @@ metadata:
   name: the-map
 data:
   altGreeting: "Have a pineapple!"
-  enableRisky: true
+  enableRisky: "true"

@@ -1,4 +1,3 @@
-namePrefix: staging-
 commonLabels:
   variant: staging
   org: acmeCorporation

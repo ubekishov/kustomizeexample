@@ -4,4 +4,4 @@ metadata:
   name: the-map
 data:
   GREETING: "Have a pineapple!"
-  RISKY: "true"
+  RISKY: true

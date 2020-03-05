@@ -3,5 +3,5 @@ kind: ConfigMap
 metadata:
   name: the-map
 data:
-  alt_greeting: "Have a pineapple!"
-  enableRisky: "true"
+  GREETING: "Have a pineapple!"
+  RISKY: "true"

@@ -6,4 +6,4 @@ commonAnnotations:
 resources:
 - ../../base
 patchesStrategicMerge:
-- deployment.yaml
+- map.yaml
